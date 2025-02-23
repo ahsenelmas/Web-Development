@@ -1,0 +1,29 @@
+1-Inline Connection
+
+<h1 style="color: blue"> CSS</h1>
+
+2-Internal Connection
+
+in the head part:
+<style>
+   h1 {
+    color: blue;
+   }
+
+in the body part:
+
+<h1> CSS</h1>
+
+3-External Connection
+
+in the head part:
+<link
+    rel="stylesheets"
+    href="link of style.css file"
+ />
+
+in the style.css file:
+
+h1 {
+    color: blue;
+}
