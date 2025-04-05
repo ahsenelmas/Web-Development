@@ -1,0 +1,18 @@
+* {
+    background-color: black;
+}
+
+h1 {
+    color: #ef3243;
+    margin-left: 220px;
+}
+
+p {
+    color: wheat;
+    margin-left: 100px;
+}
+
+#flower {
+    border: 2px dashed white;
+    margin: 20px;
+}
